@@ -9,4 +9,15 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-**Live Site:** https://muhammad-adam778.github.io/NFT-preview-card-component/
+**Live Site:** https://muhammad-abdusalam.github.io/NFT-preview-card-component/
+
+### Built with ⚒️
+
+- HTML
+- CSS
+- JS
+
+### Author
+
+- Frontend Mentor - [@Muhammad-adam778](https://www.frontendmentor.io/profile/Muhammad-adam778)
+- Linkedin - [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
